@@ -1,4 +1,4 @@
 1 - Check if current anime is already added to the list
 2 - Check if name of current anime and name of this anime on a page are the same
 3 - Adding anime to favorites
-4 - Print total count of successful and failed additions
+4 - Print total amount of successful and failed additions
