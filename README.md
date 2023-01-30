@@ -23,6 +23,7 @@ You can choose if you want to display a browser or not. (Type "+" if yes, otherw
 ## Fixes needed:
 1. There's no checking if current anime already in your MyAnimeList profile and adds it anyways.
 2. While searching title, sometimes first result isn't what we need.
+
 Example:
 When searching for "One Piece", first result is "One Piece Film: Gold". So wrong anime will be added to profile.
 
